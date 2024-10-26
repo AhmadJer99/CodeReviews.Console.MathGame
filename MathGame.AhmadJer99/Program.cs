@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-
+﻿
 string SessionHistory = "";
 string difficultyLevel = "easy";
 int availableOptions = 7;
